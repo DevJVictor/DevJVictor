@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DevJVictor
-- 👀 I’m interested in aprender e me aprofundar mais ainda neste mercado
-- - 🌱 I’m currently learning html e css
+- 👀 I’m interested in learn and delve further into this market
+- 🌱 I’m currently learning html and css
