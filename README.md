@@ -1,16 +1,24 @@
-Olá,eu me chamo João Victor 
-    
-🦊 Sobremim
-Tenho 18 anos, sou de Pernambuco e estou seguindo uma jornada para me tornar um desenvolvedor.
+<h1 align='center'>
+  Olá, sou o João Victor!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
 
-🌱 Atualmente estou Aprendendo HTML e CSS.
-📫 Meu email: coantato.joaodev@gmail.com 
-📊 Metas 2022:
-📂 Expandir meu portfólio
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
 
-🤝 Contribuir em projetos open-source
+### 🦊 Sobre mim:
 
-📈 Conseguir experiência na área
+<p>
+  <em>
+    Tenho 18 anos, sou de Pernambuco e estou seguindo uma jornada para me tornar um desenvolvedor.
+  </em>
+</p>
+
+- 🌱 Atualmente estou aprendendo HTML e CSS.
+- 📫 Meu email: coantato.joaodev@gmail.com
+
 
 <div align="center">
     <a href="https://github.com/DevJVictor">
