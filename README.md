@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @JoaoVictor
-- 👀 I’m interested in learn and delve further into this market
-- 🌱 I’m currently learning html and css
+Olá,eu me chamo João Victor 
+    
+🦊 Sobremim
+Tenho 18 anos, sou de Pernambuco e estou seguindo uma jornada para me tornar um desenvolvedor.
+
+🌱 Atualmente estou Aprendendo HTML e CSS.
+📫 Meu email: coantato.joaodev@gmail.com 
+📊 Metas 2022:
+📂 Expandir meu portfólio
+
+🤝 Contribuir em projetos open-source
+
+📈 Conseguir experiência na área
 
 <div align="center">
     <a href="https://github.com/DevJVictor">
